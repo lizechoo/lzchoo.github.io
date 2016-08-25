@@ -3,3 +3,9 @@ h1 {
   color: red;
   font-size: 32px;
 }
+
+.Nadiapoo {
+  background-image: image(nadsiepoo.jpg);
+  font-family: sans-serif;
+  color: white;
+}
