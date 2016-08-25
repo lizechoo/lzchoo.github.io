@@ -5,7 +5,7 @@ h1 {
 }
 
 .Nadiapoo {
-  background-image: image(nadsiepoo.jpg);
+  background-image: url(nadsiepoo.jpg);
   font-family: sans-serif;
   color: white;
 }
