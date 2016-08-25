@@ -1,11 +1,9 @@
-h1 {
-  font-family: sans-serif;
-  color: red;
-  font-size: 32px;
-}
+
 
 .Nadiapoo {
   background-image: url(nadsiepoo.jpg);
+  background-position: center top;
+  background-size: cover;
   font-family: sans-serif;
   color: white;
 }
