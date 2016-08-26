@@ -1,9 +1,13 @@
 .Profile {
 background-image: url(profile.jpg);
+background-position: center top;
 background-size: cover;
-padding: 250px 0;
+
+padding: 500px 0;
 margin: 30px;
+
 text-shadow: 0 2px #000000;
 font-family: 'Trebuchet MS', 'Helvetica';
 color: white;
+text-align:center;
 }
