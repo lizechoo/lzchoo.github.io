@@ -340,11 +340,6 @@ iframe{
 	opacity: 1;
 }
 
-/* Hide Object */
-.object-hidden{
-	display:none;
-}
-
 /* = Custom Styling
 -------------------------------------------------------------- */
 
@@ -391,7 +386,15 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .tc-white{
 	color:#ffffff!important;
 }
+/* Button colour styles */
 
+.btn-outer-space{
+	background-color:#47454B;
+	color:#FFF!important;
+}
+.btn-outer-space:hover{
+	background-color:#3b393e;
+	!important}
 /* Bloc image backgrounds */
 
 .bg-uczbvribdvq-teddy-kelley-min-min{
